@@ -47,9 +47,6 @@
 </div>
 
 ###
-
-<!-- Categorías detalladas (ocultas visualmente si solo quieres íconos; puedes eliminar esta sección si prefieres solo el header) -->
-<!-- 
 #### **Languages**  
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="50" />
