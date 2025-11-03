@@ -29,7 +29,7 @@
 
 ### Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,vue,spring,nestjs,react,angular,flutter,express,koa,tailwind,primevue,pinia" height="50" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=nextjs,vue,spring,nestjs,react,angular,flutter,express,tailwind,pinia" height="50" alt="Frameworks" />
 </p>
 
 ### Tools
